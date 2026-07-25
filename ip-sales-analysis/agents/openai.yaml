@@ -1,0 +1,4 @@
+interface:
+  display_name: "IP销售分析"
+  short_description: "根据销售数据Excel生成结构化的IP销售分析Word报告，严格遵循新IP分析方法模板的分析框架"
+  default_prompt: "请根据Excel销售数据分析IP销售情况，生成一份标准的IP销售分析报告"
