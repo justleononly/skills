@@ -1,0 +1,4 @@
+interface:
+  display_name: "IP多弹次系列销售分析"
+  short_description: "基于IP多弹次销售数据CSV生成结构化的新弹次销售复盘分析报告，含跨系列复购和用户流失分析"
+  default_prompt: "请根据IP多弹次销售数据分析新弹次的销售表现，生成一份新弹次销售复盘分析报告"
